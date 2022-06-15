@@ -1,0 +1,42 @@
+#Home_flex{
+    display: flex;
+}
+
+#Home_p1{
+            padding-left: 130px;
+            padding-top:100px;
+            font-size: 3rem;
+}
+#Home_p2{
+            padding-left: 130px;
+            line-height: 20px;
+            font-size: 3rem;
+}
+#Home_p3{
+            padding-left: 130px;
+            font-size: 1.5rem;
+}
+#Home_p4{
+            padding-left: 130px;
+            line-height: 20px;
+            font-size: 1.5rem;
+}
+#search_flex{
+            padding-left: 130px;
+            padding-top:30px;
+            display:flex;
+}
+#inpt_Home{
+            padding-left: 100px; 
+            border-radius:5px;
+            height:40px;
+}
+#Search_button{
+            background-color: yellow;
+            border-color:yellow;
+            border-radius:5px ;
+            margin-left:10px;
+}
+#Home_img{
+         margin-left: 150px;   
+}

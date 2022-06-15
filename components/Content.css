@@ -1,0 +1,23 @@
+#Content_head{
+  background-color:aquamarine;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 3%;
+  padding-left: 3%;
+}
+
+#slider{
+  margin-left: 30%;
+}
+#Content_flex{
+  display: flex;
+  margin-left: 20%;
+}
+#C2{
+  margin-left: 20%;
+}
+#Content_body{
+  background-color: aliceblue;
+  margin-left: 5%;
+  margin-right: 5%;
+}
